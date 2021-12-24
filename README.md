@@ -1,0 +1,2 @@
+# charukhokhar
+MY FIRST REPOSITORY
